@@ -1,6 +1,6 @@
 # Hello, I'm Jose - aka [JE-00](https://www.linkedin.com/in/jose-esquerra/)
 
-![JE-00](logoconnombrer.png "JE-00")
+![JE-00](logoconnombre.png "JE-00")
 
 ## I'm a mexican Student, Developer and Cybersecurity passionate!
 
