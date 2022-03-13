@@ -1,5 +1,5 @@
 # Hello, I'm Jose - aka [JE-00](https://www.linkedin.com/in/jose-esquerra/)
-### Hola, soy José - aka [JE-00](https://www.linkedin.com/in/jose-esquerra/)
+##### Hola, soy José - aka [JE-00](https://www.linkedin.com/in/jose-esquerra/)
 
 <code>
                                               XX
