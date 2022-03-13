@@ -1,7 +1,8 @@
 # Hello, I'm Jose - aka [JE-00](https://www.linkedin.com/in/jose-esquerra/)
 ### Hola, soy José - aka [JE-00](https://www.linkedin.com/in/jose-esquerra/)
 
-<p>                                              XX
+<code>
+                                              XX
 
 
 
@@ -25,7 +26,7 @@
      //                 |                \\      //                |                 \\
    //                   |                  \\  //                  |                   \\
  X/                     |                    XX                    |                     \X
-XX                      |                    ><                    |                      XX
+XX                      |                    ><code                    |                      XX
  X\                     |                    XX                    |                     /X
    \\                   |                  //  \\                  |                   //
      \\                 |                //      \\                |                 //
@@ -50,7 +51,7 @@ XX                      |                    ><                    |            
                                           \\    //
                                             \XX/
                                              XX
-</p>
+</code>
 
 ## I'm a mexican Student, Developer and Cybersecurity passionate!
 
