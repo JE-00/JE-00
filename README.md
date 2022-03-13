@@ -1,4 +1,5 @@
-# Hello, I'm Jose - aka [JE-00](https://www.linkedin.com/in/jose-esquerra/) - ##### Hola, soy José - aka [JE-00](https://www.linkedin.com/in/jose-esquerra/)
+# Hello, I'm Jose - aka [JE-00](https://www.linkedin.com/in/jose-esquerra/)
+##### Hola, soy José - aka [JE-00](https://www.linkedin.com/in/jose-esquerra/)
 
                                              XX
 
@@ -79,4 +80,8 @@ XX                      |                    ><                    |            
 
 ---
 
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=JE-00&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+## Github Analytics
+
+[![Stats](https://github-readme-stats.vercel.app/api?username=JE-00&count_private=true&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JE-00)](https://github.com/anuraghazra/github-readme-stats)
