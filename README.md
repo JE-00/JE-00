@@ -1,4 +1,4 @@
-# Hello, I'm Jose - aka [JE-00](https://www.linkedin.com/in/jose-esquerra/)
+# Hello, I'm José - aka [JE-00](https://www.linkedin.com/in/jose-esquerra/)
 
 ![JE-00](logoconnombre.png "JE-00")
 
