@@ -1,17 +1,17 @@
 # Hello, I'm Jose - aka [JE-00](https://www.linkedin.com/in/jose-esquerra/)
 <p>                                             XX</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;
-                       /+------------------------------------------+\
+
+
+
+
+
+
+
+
+
+
+
+<p>                       /+------------------------------------------+\
                      // |\\                                      //| \\
                    //   |  \\                                  //  |   \\
                  //     |    \\                              //    |     \\
