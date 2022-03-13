@@ -1,19 +1,17 @@
 # Hello, I'm Jose - aka [JE-00](https://www.linkedin.com/in/jose-esquerra/)
-##### Hola, soy José - aka [JE-00](https://www.linkedin.com/in/jose-esquerra/)
-
-                                             XX
-
-
-
-
-
-
-
-
-
-
-
-                       /+------------------------------------------+\
+<p>                                             XX</p>
+<p>&nbsp;
+<p>&nbsp;
+<p>&nbsp;
+<p>&nbsp;
+<p>&nbsp;
+<p>&nbsp;
+<p>&nbsp;
+<p>&nbsp;
+<p>&nbsp;
+<p>&nbsp;
+<p>&nbsp;
+<p>                       /+------------------------------------------+\
                      // |\\                                      //| \\
                    //   |  \\                                  //  |   \\
                  //     |    \\                              //    |     \\
@@ -49,8 +47,7 @@ XX                      |                    ><                    |            
                                         \\        //
                                           \\    //
                                             \XX/
-                                             XX
-
+                                             XX</p>
 
 ## I'm a mexican Student, Developer and Cybersecurity passionate!
 
