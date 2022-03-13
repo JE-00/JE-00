@@ -1,5 +1,4 @@
-# Hello, I'm Jose - aka [JE-00](https://www.linkedin.com/in/jose-esquerra/)
-##### Hola, soy José - aka [JE-00](https://www.linkedin.com/in/jose-esquerra/)
+# Hello, I'm Jose - aka [JE-00](https://www.linkedin.com/in/jose-esquerra/) - ##### Hola, soy José - aka [JE-00](https://www.linkedin.com/in/jose-esquerra/)
 
 <code>
                                               XX
@@ -78,3 +77,7 @@ XX                      |                    ><                    |            
 - 😄 Pronouns: He/His - Él
 - ⚡ Fun fact: My favorite food is molletes.
 - 🥅 2022 Goals: Learn more about pentesting and networking.
+
+---
+
+[Github Stats](https://github-readme-stats.vercel.app/api?username=JE-00)(https://github.com/anuraghazra/github-readme-stats)
