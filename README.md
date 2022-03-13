@@ -1,17 +1,17 @@
 # Hello, I'm Jose - aka [JE-00](https://www.linkedin.com/in/jose-esquerra/) - ##### Hola, soy José - aka [JE-00](https://www.linkedin.com/in/jose-esquerra/)
 
                                              XX
-                                             .
-                                             .
-                                             .
-                                             .
-                                             .
-                                             .
-                                             .
-                                             .
-                                             .
-                                             .
-                                             .
+
+
+
+
+
+
+
+
+
+
+
                        /+------------------------------------------+\
                      // |\\                                      //| \\
                    //   |  \\                                  //  |   \\
@@ -55,15 +55,15 @@ XX                      |                    ><                    |            
 
 ### Connect with me:
 
-[- Website](https://www.joseesquerra.com)
+- [**Website**](https://www.joseesquerra.com)
 
-[- Twitter](https://twitter.com/jose_esquerra)
+- [**Twitter**](https://twitter.com/jose_esquerra)
 
-[- Instagram](https://www.instagram.com/joseesquerra2/)
+- [**Instagram**](https://www.instagram.com/joseesquerra2/)
 
 
 
-[- Check out Cybersecurity TEC](https://linktr.ee/cybersecurity.mty)
+- [Check out **Cybersecurity TEC**](https://linktr.ee/cybersecurity.mty)
 
 ---
 
@@ -79,4 +79,4 @@ XX                      |                    ><                    |            
 
 ---
 
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=JE-00)](https://github.com/anuraghazra/github-readme-stats)
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=JE-00&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
