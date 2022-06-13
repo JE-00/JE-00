@@ -36,4 +36,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JE-00&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
- <script src="https://tryhackme.com/badge/485981"></script>
+[![TryHackMe](https://tryhackme.com/badge/485981)]
