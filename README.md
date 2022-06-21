@@ -2,21 +2,21 @@
 
 ![JE-00](logoconnombre.png "JE-00")
 
-## I'm a mexican Student at the [Tecnológico de Monterrey](https://github.com/tecnologico-de-monterrey-oficial), Developer and Cybersecurity passionate!
+## I'm a mexican Student at the [Tecnológico de Monterrey](https://github.com/tecnologico-de-monterrey-oficial), Developer and Cybersecurity Trainee!
 
 ### Connect with me:
 
-- [**Website (Comming soon)**](https://www.joseesquerra.com)
+- [**Website** (Comming soon)](https://www.joseesquerra.com)
 
 - [**Twitter**](https://twitter.com/jose_esquerra)
 
 - [**Instagram**](https://www.instagram.com/joseesquerra2/)
 
 
-
-- [Check out **Cybersecurity TEC**](https://linktr.ee/cybersecurity.mty)
+- [Check out **Cybersecurity TEC**!](https://linktr.ee/cybersecurity.mty)
 
 ---
+## About me
 
 - 🔭 I’m currently working on [Cybersecurity TEC](https://linktr.ee/cybersecurity.mty) as Director of Social Responsibility.
 - 🌱 I’m currently learning social engineering, networking and hacking.
@@ -28,6 +28,8 @@
 - ⚡ Fun fact: My favorite food is molletes and my least favorite food is picadillo.
 - 🥅 2022 Goals: Learn more about incident response and networking.
 
+---
+## [My repositories](https://github.com/JE-00?tab=repositories)
 ---
 
 ## Analytics
