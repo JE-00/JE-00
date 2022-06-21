@@ -2,11 +2,11 @@
 
 ![JE-00](logoconnombre.png "JE-00")
 
-## I'm a mexican Student, Developer and Cybersecurity passionate!
+## I'm a mexican Student at the [Tecnológico de Monterrey](https://github.com/tecnologico-de-monterrey-oficial), Developer and Cybersecurity passionate!
 
 ### Connect with me:
 
-- [**Website**](https://www.joseesquerra.com)
+- [**Website (Comming soon)**](https://www.joseesquerra.com)
 
 - [**Twitter**](https://twitter.com/jose_esquerra)
 
@@ -18,15 +18,15 @@
 
 ---
 
-- 🔭 I’m currently working on [Cybersecurity TEC](https://linktr.ee/cybersecurity.mty).
-- 🌱 I’m currently learning networking and hacking.
+- 🔭 I’m currently working on [Cybersecurity TEC](https://linktr.ee/cybersecurity.mty) as Director of Social Responsibility.
+- 🌱 I’m currently learning social engineering, networking and hacking.
 - 👯 I’m looking to collaborate on open source projects and bughunting.
-- 🤔 I’m looking for help with cybersecurity basics.
-- 💬 Ask me about my projects.
+- 🤔 I’m looking for help with web development wit a social project for [Cybersecurity TEC](https://linktr.ee/cybersecurity.mty).
+- 💬 Ask me about my projects and plans, let's see if we can collaborate.
 - 📫 How to reach me: <joseesquerra@protonmail.com>
 - 😄 Pronouns: He/His - Él
-- ⚡ Fun fact: My favorite food is molletes.
-- 🥅 2022 Goals: Learn more about pentesting and networking.
+- ⚡ Fun fact: My favorite food is molletes and my least favorite food is picadillo.
+- 🥅 2022 Goals: Learn more about incident response and networking.
 
 ---
 
