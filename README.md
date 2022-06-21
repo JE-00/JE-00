@@ -25,19 +25,29 @@
 - 🤔 I’m looking for help with web development wit a social project for [Cybersecurity TEC](https://linktr.ee/cybersecurity.mty)
 - 💬 Ask me about my projects and plans, let's see how we can collaborate
 - 📫 How to reach me: <joseesquerra@protonmail.com>
+
+----
+
 - 😄 Soft skills:
   -  Analysis and solution of problems
   -  Lead and evaluate others
   -  Empathy and flexibility
   -  Support and teamwork
   -  Structure and order
--  Technical skills:
--  
+- 👨🏻‍💻 Technical skills:
+  -  C++
+  -  Python
+  -  Databases
+  -  Web Development
+  -  Linux
+
+---
+
 - ⚡ Fun fact: My favorite food is molletes and my least favorite food is picadillo.
 - 🥅 2022 Goals: Learn more about incident response and networking.
 
 ---
-## [My repositories](https://github.com/JE-00?tab=repositories)
+## [My projects](https://github.com/stars/JE-00/lists/my-favorites)
 ---
 
 ## Analytics
