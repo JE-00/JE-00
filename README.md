@@ -1,4 +1,4 @@
-# Hello, I'm José - aka [JE-00](https://www.linkedin.com/in/jose-esquerra/)
+# Hello, I'm [José](https://www.linkedin.com/in/jose-esquerra/) - aka JE-00 *(He/His - Él)*
 
 ![JE-00](logoconnombre.png "JE-00")
 
@@ -8,9 +8,9 @@
 
 - [**Website** (Comming soon)](https://www.joseesquerra.com)
 
-- [**Twitter**](https://twitter.com/jose_esquerra)
+- [**LinkedIn**](https://www.linkedin.com/in/jose-esquerra/)
 
-- [**Instagram**](https://www.instagram.com/joseesquerra2/)
+- [**Twitter**](https://twitter.com/jose_esquerra)
 
 
 - [Check out **Cybersecurity TEC**!](https://linktr.ee/cybersecurity.mty)
@@ -18,13 +18,21 @@
 ---
 ## About me
 
-- 🔭 I’m currently working on [Cybersecurity TEC](https://linktr.ee/cybersecurity.mty) as Director of Social Responsibility.
-- 🌱 I’m currently learning social engineering, networking and hacking.
-- 👯 I’m looking to collaborate on open source projects and bughunting.
-- 🤔 I’m looking for help with web development wit a social project for [Cybersecurity TEC](https://linktr.ee/cybersecurity.mty).
-- 💬 Ask me about my projects and plans, let's see if we can collaborate.
+- I am part of the [Leaders of Tomorrow](http://lideresdelmanana.itesm.mx/) scholarship
+- 🔭 I’m currently working on [Cybersecurity TEC](https://linktr.ee/cybersecurity.mty) as Director of Social Responsibility
+- 🌱 I’m currently learning social engineering, networking and hacking
+- 👯 I’m looking to collaborate on open source projects and bughunting
+- 🤔 I’m looking for help with web development wit a social project for [Cybersecurity TEC](https://linktr.ee/cybersecurity.mty)
+- 💬 Ask me about my projects and plans, let's see how we can collaborate
 - 📫 How to reach me: <joseesquerra@protonmail.com>
-- 😄 Pronouns: He/His - Él
+- 😄 Soft skills:
+  -  Analysis and solution of problems
+  -  Lead and evaluate others
+  -  Empathy and flexibility
+  -  Support and teamwork
+  -  Structure and order
+-  Technical skills:
+-  
 - ⚡ Fun fact: My favorite food is molletes and my least favorite food is picadillo.
 - 🥅 2022 Goals: Learn more about incident response and networking.
 
