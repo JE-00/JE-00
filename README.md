@@ -1,6 +1,6 @@
 # Hello, I'm [José](https://www.linkedin.com/in/jose-esquerra/) - aka JE-00 *(He/His - Él)*
 
-![JE-00](logoconnombre.png "JE-00")
+![JE-00](./assets/logoconnombre.png "JE-00")
 
 ## I'm a mexican Student at the [Tecnológico de Monterrey](https://github.com/tecnologico-de-monterrey-oficial), Developer and Cybersecurity Trainee!
 
