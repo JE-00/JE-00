@@ -52,7 +52,7 @@
 
 ## Analytics
 
-[![tryhackme stats](https://raw.githubusercontent.com/JE-00/JE-00/master/assets/thm_propic.png)]
+[![TryHackMe Stats](<script src="https://tryhackme.com/badge/485981"></script>)]
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=JE-00&count_private=true&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
