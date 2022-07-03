@@ -22,7 +22,7 @@
 - 🔭 I’m currently working on [Cybersecurity TEC](https://linktr.ee/cybersecurity.mty) as Director of Social Responsibility
 - 🌱 I’m currently learning social engineering, networking and hacking
 - 👯 I’m looking to collaborate on open source projects and bughunting
-- 🤔 I’m looking for help with web development wit a social project for [Cybersecurity TEC](https://linktr.ee/cybersecurity.mty)
+- 🤔 I’m looking for help with web development on a social project for [Cybersecurity TEC](https://linktr.ee/cybersecurity.mty)
 - 💬 Ask me about my projects and plans, let's see how we can collaborate
 - 📫 How to reach me: <joseesquerra@protonmail.com>
 
